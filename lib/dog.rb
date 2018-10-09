@@ -4,5 +4,5 @@ class Dog
     @breed = breed
   end
   
-  attr_accessor :breed :name
+  attr_accessor :breed, :name
 end
